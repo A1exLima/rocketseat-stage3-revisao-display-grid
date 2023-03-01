@@ -4,7 +4,7 @@
 O CSS Grid é um sistema de estruturação de layout que o CSS nos fornece. Diferente do Flexbox, que apenas nos permite trabalhar em uma única dimensão, o CSS Grid nos permite configurar layouts em duas dimensões (linhas e colunas). A junção de linhas e colunas formam uma grade, o que dá o nome a esse sistema (Grid).</p>
 
 <p align="center">
-  <img alt="canal youtube" src="./images/github2.png" width="100%">
+  <img alt="canal youtube" src="./public/images/github2.png" width="100%">
 </p>
 
 <p align="center">Você pode acessar o VÍDEO através do link: 
